@@ -1,4 +1,4 @@
-## Dockerfile to generate dnscrypt-proxy on alpine container
+## Dockerfile to generate dnscrypt-proxy on debian container
 ## Created by ardhinata.juari@gmail.com
 
 # Build dnscrypt-proxy using golang container
